@@ -2,7 +2,7 @@
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at **the University of Hanyang in Korea**.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, **Path planning for Autonomous driving**.\
+🌱 &nbsp;I'm focusing on Computer Vision Research Domain, especially ego-motion estimation using various visual sensors. It's one of main technology that required for autonomous driving or AR/VR/XR.\
 📄 &nbsp;You can shoot me an email at leechanwoo25@gmail.com!
 
 ### 🛠 &nbsp;Tech Stack
