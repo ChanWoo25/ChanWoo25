@@ -1,9 +1,8 @@
-### 👋 &nbsp; 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at **the University of Hanyang in Korea**.\
-🌱 &nbsp;I'm focusing on Computer Vision Research Domain, especially ego-motion estimation using various visual sensors. It's one of the major technologies required for autonomous driving or AR/VR/XR industries.\
-📄 &nbsp;You can shoot me an email at leechanwoo25@gmail.com!
+I am a Ph.D. candidate in the Signal Processing and Artificial Intelligence Lab (SPA Lab) advised by Junwon Choi at Hanyang University. I graduated with a bachelor's degree in Electrical Engineering from Soongsil University.
+
+I'm very interested in robotics vision, espicially sensor fusion based SLAM research. 
 
 ### 🛠 &nbsp;Tech Stack
 
