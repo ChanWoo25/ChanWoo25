@@ -17,12 +17,21 @@ I strongly believe that we learn everything from failures.
 - E-mail:   leechanwoo25@gmail.com
 - LinkedIn: [Chanwoo Lee](https://www.linkedin.com/in/chanwoo-lee-586a50181/)
 
-##  
+## Projects
 
+- [Place Recognition using Point Cloud ](https://github.com/ChanWoo25/point-cloud-place-recognition) *(Dec 2023 ~ Present)*
+  - Research project to enhance robustness of the point cloud place recognition task.
+- [stereo_img_publisher](https://github.com/ChanWoo25/stereo_img_publisher) *(Oct 2022 ~ May 2023)*
+  - ros stereo image publisher using CamCapture library.
+- [CamCapture](https://github.com/ChanWoo25/CamCapture) *(Oct 2022)*
+  - Simple c++ library to handle actual stereo cameras and retrieve images.
+- [SuperPoint-SLAM](https://github.com/ChanWoo25/SuperPoint-SLAM) *(Oct 2020 ~ Jan 2021)*
+  - Visual SLAM project: Replace ORB feature extractor with SuperPoint based on ORB-SLAM2
+  - Got the Hyung-Nam Award from Soongsil University
+- [C++ SuperPoint using libtorch](https://github.com/ChanWoo25/SuperPoint2CPP) *(Aug 2020 ~ Dec 2020)*
+  -  Converted the [SuperPoint project](https://github.com/magicleap/SuperPointPretrainedNetwork) to the C++ version (just for inference)
 
-I'm very interested in robotics vision, espicially sensor fusion based SLAM research. 
-
-### 🛠 &nbsp;Tech Stack
+## Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
