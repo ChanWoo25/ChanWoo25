@@ -1,5 +1,17 @@
 # Chanwoo Lee
 
+👨🏻‍💻 &nbsp; **About Me**
+
+I graduated with a major in electrical engineering from Soongsil University. \
+Currently, I am pursuing a master's degree under the guidance of Professor Jun-Won Choi \
+in the Signal Processing and Artificial Intelligence (SPA) Lab at Hanyang University.
+
+My main interest lies at a development of Robust SLAM System by utilizing recent sensor fusion-based studies. \
+The application that motivates me the most is autonomous driving of various robots. \
+I am a sociable person, but also very calm. I enjoy gathering people together to learn something, \
+and I enjoy thinking about and applying how to collaborate better with people. \
+I strongly believe that we learn everything from failures. 
+
 ## Contacts
 
 - E-mail:   leechanwoo25@gmail.com
@@ -7,9 +19,6 @@
 
 ##  
 
-### 👨🏻‍💻 &nbsp;About Me
-
-I am a Ph.D. candidate in the Signal Processing and Artificial Intelligence Lab (SPA Lab) advised by Junwon Choi at Hanyang University. I graduated with a bachelor's degree in Electrical Engineering from Soongsil University.
 
 I'm very interested in robotics vision, espicially sensor fusion based SLAM research. 
 
