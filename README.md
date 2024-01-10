@@ -1,3 +1,12 @@
+# Chanwoo Lee
+
+## Contacts
+
+- E-mail:   leechanwoo25@gmail.com
+- LinkedIn: [Chanwoo Lee](https://www.linkedin.com/in/chanwoo-lee-586a50181/)
+
+##  
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 I am a Ph.D. candidate in the Signal Processing and Artificial Intelligence Lab (SPA Lab) advised by Junwon Choi at Hanyang University. I graduated with a bachelor's degree in Electrical Engineering from Soongsil University.
