@@ -31,6 +31,15 @@ I strongly believe that we learn everything from failures.
 - [C++ SuperPoint using libtorch](https://github.com/ChanWoo25/SuperPoint2CPP) *(Aug 2020 ~ Dec 2020)*
   -  Converted the [SuperPoint project](https://github.com/magicleap/SuperPointPretrainedNetwork) to the C++ version (just for inference)
 
+**Personal Utils**
+
+- [cw-utils](https://github.com/ChanWoo25/cw-utils)
+- [cw-tools](https://github.com/ChanWoo25/cw-eval-tools)
+
+**Studying**
+
+- [Prepare Coding Interviews](https://github.com/ChanWoo25/coding-interview-preparaion)
+
 ## Tech Stack
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -42,5 +51,5 @@ I strongly believe that we learn everything from failures.
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-[![Chanwoo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanWoo25)](https://github.com/ChanWoo25/github-readme-stats)
+[![Chanwoo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanWoo25&&theme=gruvbox)](https://github.com/ChanWoo25/github-readme-stats)
 
