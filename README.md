@@ -2,14 +2,14 @@
 
 👨🏻‍💻 &nbsp; **About Me**
 
-I graduated with a major in electrical engineering from Soongsil University. \
-Currently, I am pursuing a master's degree under the guidance of Professor Jun-Won Choi \
+I graduated with a major in electrical engineering from Soongsil University. 
+Currently, I am pursuing a master's degree under the guidance of Professor Jun-Won Choi 
 in the Signal Processing and Artificial Intelligence (SPA) Lab at Hanyang University.
 
-My main interest lies at a development of Robust SLAM System by utilizing recent sensor fusion-based studies. \
-The application that motivates me the most is autonomous driving of various robots. \
-I am a sociable person, but also very calm. I enjoy gathering people together to learn something, \
-and I enjoy thinking about and applying how to collaborate better with people. \
+My main interest lies at a development of Robust SLAM System by utilizing recent sensor fusion-based studies. 
+The application that motivates me the most is autonomous driving of various robots. 
+I am a sociable person, but also very calm. I enjoy gathering people together to learn something, 
+and I enjoy thinking about and applying how to collaborate better with people. 
 I strongly believe that we learn everything from failures. 
 
 ## Contacts
